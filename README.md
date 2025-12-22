@@ -1,2 +1,2 @@
 # Ex_Use
-In the name of me
+It's document for example use github
